@@ -10,7 +10,24 @@
     min-height:400px;
 }
 
+.card-header{
+    background-color: #FDC82E;
+}
 
+
+.radio label {
+    min-height: 20px;
+    padding-left: 20px;
+    margin-bottom: 0;
+    font-weight: 400;
+    cursor: pointer;
+    }
+
+    input[type=radio] {
+        margin: 12px 0 0;
+        line-height: normal;
+        }
+   
 
 .footer{
     background-color: #D1C4E9;
